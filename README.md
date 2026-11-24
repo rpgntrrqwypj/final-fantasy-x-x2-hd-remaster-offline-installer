@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging rpg game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience FINAL FANTASY X/X-2 HD Remaster in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OS X 10.6 10.7 10.8 |
+| **Processor** | Min: 1.5Ghz Processor or better / Rec: Pentium 4 or better | 1.5GHz Intel Core 2 Duo or better |
+| **Memory** | Min: 1 GB RAM / Rec: 2 GB RAM | 1 GB RAM |
+| **Graphics** | Integrated Graphics Chip | Integrated Graphics Chip |
+| **Storage** | Min: 2 GB available space / Rec: 4 GB available space | 2 GB available space |
+| **OS *** | Min: Microsoft Windows 7 / 8 / 10 / 11 / Rec: Microsoft Windows  7 / 8 / 10 / 11 | Microsoft Windows 7 / 8 / 10 / 11 |
+| **Additional Notes** | Requires a 64-bit processor and operating system | Requires a 64-bit processor and operating system |
 
 ---
 
